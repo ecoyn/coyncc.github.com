@@ -1,2 +1,2 @@
 # coyncc
-clog
+blog
